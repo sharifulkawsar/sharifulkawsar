@@ -14,6 +14,4 @@ All of Contributing Projects:
 
 (iv) n-Doptor
 
-(v) I have Another GitHub. Please check for More Projects.
-    
-    https://github.com/sharifulkawsar 
+(v) PMS - Practice Management System
